@@ -14,4 +14,4 @@ And then execute:
     a live server
 
 ## Usage
-This web application provides a user experience of viewing a photo gallery. It is a demo where you can view mutiple photos and able to search for a type of photo. 
+This web application provides a user experience of viewing a photo gallery. It is a demo where you can view mutiple photos and search for a type of photo. 
